@@ -93,6 +93,7 @@ You'll also need FQDNs that are covered as part of Microsoft 365 Requirements. F
 |*.emdl.ws.microsoft.com| Delivery Optimization |
 |*.notify.windows.com| Push Notifications |
 |*.wns.windows.com| Push Notifications |
+|has.spserv.microsoft.com| Device Health Attestation |
 |devicelistenerprod.microsoft.com| Windows Update for Business deployment service |
 |devicelistenerprod.eudb.microsoft.com| Windows Update for Business deployment service |
 |login.windows.net| Windows Update for Business deployment service |
